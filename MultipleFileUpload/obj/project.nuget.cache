@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFVEGcbeK8ZnougdohtXJs+pCkuW+ZhZu21nj6otUKphX/KODghwOrTMw1qpxqv5zzmkF/9JSITYJzPPXw4ssg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baris\\source\\repos\\MultipleFileUpload\\MultipleFileUpload\\MultipleFileUpload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baris\\.nuget\\packages\\sixlabors.imagesharp\\1.0.1\\sixlabors.imagesharp.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

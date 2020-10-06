@@ -36,7 +36,7 @@
                     var r = data.responseJSON.error;
                         alert(r);
                     }
-                    });
+               });
     }
 </script> 
 ```

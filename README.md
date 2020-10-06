@@ -13,7 +13,7 @@
 <script>
     function UploadFile() {
         var baseUrl = "http://localhost:5000";
-        var serviceUrl = "/media/multi-upload";
+        var serviceUrl = "/media/multipldupload";
 
         var fd = new FormData();
         var files = document.getElementById('file').files.length;

@@ -1,4 +1,4 @@
-# Multiple File Upload and Image Resizer(SixLabors)
+# .Net Core Web Api | Multiple File Upload and Image Resizer(SixLabors)
 .Net Core Web Api | Multiple File Upload and Image Resizer(SixLabors)
 
 ```bash

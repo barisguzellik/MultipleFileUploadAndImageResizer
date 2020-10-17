@@ -3,8 +3,7 @@
 
 ```bash
 <form enctype="multipart/form-data">
-    <input id="file" name="file" type="file" multiple />
-    <button type="button" onchange="UploadFile()">Upload</button>
+    <input id="file" name="file" type="file" multiple onchange="UploadFile()" />
     <div id="uploadedImagesDiv" class="row sortable-list"></div>
 </form>
 ```
@@ -13,7 +12,7 @@
 <script>
     var uploadedImages = [];
     var baseUrl = "http://localhost:5001";
-    var serviceUrl = "/media/multi-upload";
+    var serviceUrl = "/media/multipleupload";
 
     function UploadFile() {
 
